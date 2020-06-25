@@ -1,3 +1,4 @@
+#_*_ coding: utf-8 _*_
 import hashlib
 
 print("What encryption would you like to use?")
